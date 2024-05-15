@@ -1,0 +1,14 @@
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\bin\Debug\net8.0\Studio-Menu.exe
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\bin\Debug\net8.0\Studio-Menu.deps.json
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\bin\Debug\net8.0\Studio-Menu.runtimeconfig.json
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\bin\Debug\net8.0\Studio-Menu.dll
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\bin\Debug\net8.0\Studio-Menu.pdb
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.AssemblyInfoInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.AssemblyInfo.cs
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.csproj.CoreCompileInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.dll
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\refint\Studio-Menu.dll
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.pdb
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\Studio-Menu.genruntimeconfig.cache
+C:\Users\lizar\OneDrive\Desktop\Studio-Menu\Studio-Menu\obj\Debug\net8.0\ref\Studio-Menu.dll
