@@ -1,14 +1,26 @@
 ﻿using Helpers;
 using System.Threading;
 List<MenuItem> menuItems = [];
-Menu menu = new(menuItems);
+Menu menu = new();
 
-MenuItem menuItem = new(1.00, "Ham and Cheese", "app");
+MenuItem Sandwich = new(1.00, "Ham and Cheese", "app");
+menu.AddMenuItem(Sandwich);
 
+MenuItem Burger = new(3.00, "Cheese Burger", "main");
+menu.AddMenuItem(Burger);
+
+MenuItem Cake = new(7.00, "Five Layer Cake", "dessert");
+menu.AddMenuItem(Cake);
+
+
+MenuItem Cheese = new(11.00, "Cheese bread", "main");
+menu.AddMenuItem(Cheese);
 
 Console.WriteLine(menu);
-menu.AddMenuItem(menuItem, DateTime.Now);
+
+menu.RemoveMenuItem("Cheese bread");
+
+Console.WriteLine(menu);
 Console.WriteLine(menu.LastUpdated);
-Thread.Sleep(2000);
-Console.WriteLine(menu.LastUpdated);
+
 
